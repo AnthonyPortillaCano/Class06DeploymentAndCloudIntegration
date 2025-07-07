@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "C:\\CURSOSNETPERSONAL2025\\CursoExtranjeroMicroservicios\\06_DeploymentAndCloudIntegration\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F8A92B7A-2A83-424A-88CF-C7AD3BFE040B}|CloudDemoApp\\CloudDemoApp.csproj|c:\\cursosnetpersonal2025\\cursoextranjeromicroservicios\\06_deploymentandcloudintegration\\clouddemoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8A92B7A-2A83-424A-88CF-C7AD3BFE040B}|CloudDemoApp\\CloudDemoApp.csproj|solutionrelative:clouddemoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8A92B7A-2A83-424A-88CF-C7AD3BFE040B}|CloudDemoApp\\CloudDemoApp.csproj|c:\\cursosnetpersonal2025\\cursoextranjeromicroservicios\\06_deploymentandcloudintegration\\clouddemoapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8A92B7A-2A83-424A-88CF-C7AD3BFE040B}|CloudDemoApp\\CloudDemoApp.csproj|solutionrelative:clouddemoapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F8A92B7A-2A83-424A-88CF-C7AD3BFE040B}|CloudDemoApp\\CloudDemoApp.csproj|c:\\cursosnetpersonal2025\\cursoextranjeromicroservicios\\06_deploymentandcloudintegration\\clouddemoapp\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{F8A92B7A-2A83-424A-88CF-C7AD3BFE040B}|CloudDemoApp\\CloudDemoApp.csproj|solutionrelative:clouddemoapp\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8A92B7A-2A83-424A-88CF-C7AD3BFE040B}|CloudDemoApp\\CloudDemoApp.csproj|c:\\cursosnetpersonal2025\\cursoextranjeromicroservicios\\06_deploymentandcloudintegration\\clouddemoapp\\clouddemoapp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{F8A92B7A-2A83-424A-88CF-C7AD3BFE040B}|CloudDemoApp\\CloudDemoApp.csproj|solutionrelative:clouddemoapp\\clouddemoapp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\CURSOSNETPERSONAL2025\\CursoExtranjeroMicroservicios\\06_DeploymentAndCloudIntegration\\CloudDemoApp\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "CloudDemoApp\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\CURSOSNETPERSONAL2025\\CursoExtranjeroMicroservicios\\06_DeploymentAndCloudIntegration\\CloudDemoApp\\Controllers\\WeatherForecastController.cs*",
-              "RelativeToolTip": "CloudDemoApp\\Controllers\\WeatherForecastController.cs*",
-              "ViewState": "AgIAAAYAAAAAAAAAAIA+wA4AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T03:16:33.557Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CloudDemoApp.http",
-              "DocumentMoniker": "C:\\CURSOSNETPERSONAL2025\\CursoExtranjeroMicroservicios\\06_DeploymentAndCloudIntegration\\CloudDemoApp\\CloudDemoApp.http",
-              "RelativeDocumentMoniker": "CloudDemoApp\\CloudDemoApp.http",
-              "ToolTip": "C:\\CURSOSNETPERSONAL2025\\CursoExtranjeroMicroservicios\\06_DeploymentAndCloudIntegration\\CloudDemoApp\\CloudDemoApp.http",
-              "RelativeToolTip": "CloudDemoApp\\CloudDemoApp.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-07-07T02:44:49.485Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Dockerfile",
               "DocumentMoniker": "C:\\CURSOSNETPERSONAL2025\\CursoExtranjeroMicroservicios\\06_DeploymentAndCloudIntegration\\CloudDemoApp\\Dockerfile",
               "RelativeDocumentMoniker": "CloudDemoApp\\Dockerfile",
               "ToolTip": "C:\\CURSOSNETPERSONAL2025\\CursoExtranjeroMicroservicios\\06_DeploymentAndCloudIntegration\\CloudDemoApp\\Dockerfile",
               "RelativeToolTip": "CloudDemoApp\\Dockerfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-07-07T02:44:43.18Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\CURSOSNETPERSONAL2025\\CursoExtranjeroMicroservicios\\06_DeploymentAndCloudIntegration\\CloudDemoApp\\Program.cs",
-              "RelativeDocumentMoniker": "CloudDemoApp\\Program.cs",
-              "ToolTip": "C:\\CURSOSNETPERSONAL2025\\CursoExtranjeroMicroservicios\\06_DeploymentAndCloudIntegration\\CloudDemoApp\\Program.cs",
-              "RelativeToolTip": "CloudDemoApp\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAABsAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T02:41:13.842Z",
+              "WhenOpened": "2025-07-07T04:32:03.548Z",
               "EditorCaption": ""
             }
           ]
