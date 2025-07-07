@@ -38,7 +38,7 @@ namespace CloudDemoApp.Controllers
             _telemetryClient.TrackMetric("WeatherForecastRequests", 1);
             try
             {
-                // Simular un error para el log de ejemplo
+                // Simulated error
                 if (DateTime.UtcNow.Second % 2 == 0)
                     throw new Exception("Simulated error for logging demo");
             }

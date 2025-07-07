@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "C:\\CURSOSNETPERSONAL2025\\Class06\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F8A92B7A-2A83-424A-88CF-C7AD3BFE040B}|CloudDemoApp\\CloudDemoApp.csproj|c:\\cursosnetpersonal2025\\class06\\clouddemoapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8A92B7A-2A83-424A-88CF-C7AD3BFE040B}|CloudDemoApp\\CloudDemoApp.csproj|solutionrelative:clouddemoapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8A92B7A-2A83-424A-88CF-C7AD3BFE040B}|CloudDemoApp\\CloudDemoApp.csproj|c:\\cursosnetpersonal2025\\class06\\clouddemoapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8A92B7A-2A83-424A-88CF-C7AD3BFE040B}|CloudDemoApp\\CloudDemoApp.csproj|solutionrelative:clouddemoapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F8A92B7A-2A83-424A-88CF-C7AD3BFE040B}|CloudDemoApp\\CloudDemoApp.csproj|c:\\cursosnetpersonal2025\\class06\\clouddemoapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A92B7A-2A83-424A-88CF-C7AD3BFE040B}|CloudDemoApp\\CloudDemoApp.csproj|solutionrelative:clouddemoapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F8A92B7A-2A83-424A-88CF-C7AD3BFE040B}|CloudDemoApp\\CloudDemoApp.csproj|c:\\cursosnetpersonal2025\\class06\\clouddemoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F8A92B7A-2A83-424A-88CF-C7AD3BFE040B}|CloudDemoApp\\CloudDemoApp.csproj|solutionrelative:clouddemoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8A92B7A-2A83-424A-88CF-C7AD3BFE040B}|CloudDemoApp\\CloudDemoApp.csproj|c:\\cursosnetpersonal2025\\class06\\clouddemoapp\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{F8A92B7A-2A83-424A-88CF-C7AD3BFE040B}|CloudDemoApp\\CloudDemoApp.csproj|solutionrelative:clouddemoapp\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{F8A92B7A-2A83-424A-88CF-C7AD3BFE040B}|CloudDemoApp\\CloudDemoApp.csproj|c:\\cursosnetpersonal2025\\class06\\clouddemoapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A92B7A-2A83-424A-88CF-C7AD3BFE040B}|CloudDemoApp\\CloudDemoApp.csproj|solutionrelative:clouddemoapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F8A92B7A-2A83-424A-88CF-C7AD3BFE040B}|CloudDemoApp\\CloudDemoApp.csproj|c:\\cursosnetpersonal2025\\class06\\clouddemoapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{F8A92B7A-2A83-424A-88CF-C7AD3BFE040B}|CloudDemoApp\\CloudDemoApp.csproj|solutionrelative:clouddemoapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A92B7A-2A83-424A-88CF-C7AD3BFE040B}|CloudDemoApp\\CloudDemoApp.csproj|c:\\cursosnetpersonal2025\\class06\\clouddemoapp\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F8A92B7A-2A83-424A-88CF-C7AD3BFE040B}|CloudDemoApp\\CloudDemoApp.csproj|solutionrelative:clouddemoapp\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A92B7A-2A83-424A-88CF-C7AD3BFE040B}|CloudDemoApp\\CloudDemoApp.csproj|c:\\cursosnetpersonal2025\\class06\\clouddemoapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A92B7A-2A83-424A-88CF-C7AD3BFE040B}|CloudDemoApp\\CloudDemoApp.csproj|solutionrelative:clouddemoapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A92B7A-2A83-424A-88CF-C7AD3BFE040B}|CloudDemoApp\\CloudDemoApp.csproj|c:\\cursosnetpersonal2025\\class06\\clouddemoapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F8A92B7A-2A83-424A-88CF-C7AD3BFE040B}|CloudDemoApp\\CloudDemoApp.csproj|solutionrelative:clouddemoapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,69 +38,95 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\CURSOSNETPERSONAL2025\\Class06\\CloudDemoApp\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "CloudDemoApp\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\CURSOSNETPERSONAL2025\\Class06\\CloudDemoApp\\Controllers\\UserController.cs",
+              "RelativeToolTip": "CloudDemoApp\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T18:39:34.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\CURSOSNETPERSONAL2025\\Class06\\CloudDemoApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CloudDemoApp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\CURSOSNETPERSONAL2025\\Class06\\CloudDemoApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CloudDemoApp\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-07T17:27:36.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\CURSOSNETPERSONAL2025\\Class06\\CloudDemoApp\\appsettings.json",
               "RelativeDocumentMoniker": "CloudDemoApp\\appsettings.json",
               "ToolTip": "C:\\CURSOSNETPERSONAL2025\\Class06\\CloudDemoApp\\appsettings.json",
               "RelativeToolTip": "CloudDemoApp\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-07-07T06:03:05.779Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\CURSOSNETPERSONAL2025\\Class06\\CloudDemoApp\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "CloudDemoApp\\Controllers\\WeatherForecastController.cs",
               "ToolTip": "C:\\CURSOSNETPERSONAL2025\\Class06\\CloudDemoApp\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "CloudDemoApp\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAAACcAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAC8AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-07T05:53:42.818Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\CURSOSNETPERSONAL2025\\Class06\\CloudDemoApp\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "CloudDemoApp\\Controllers\\ProductsController.cs",
               "ToolTip": "C:\\CURSOSNETPERSONAL2025\\Class06\\CloudDemoApp\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "CloudDemoApp\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-07T05:51:53.716Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\CURSOSNETPERSONAL2025\\Class06\\CloudDemoApp\\Program.cs",
               "RelativeDocumentMoniker": "CloudDemoApp\\Program.cs",
               "ToolTip": "C:\\CURSOSNETPERSONAL2025\\Class06\\CloudDemoApp\\Program.cs",
               "RelativeToolTip": "CloudDemoApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-07T04:46:30.377Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Dockerfile",
               "DocumentMoniker": "C:\\CURSOSNETPERSONAL2025\\Class06\\CloudDemoApp\\Dockerfile",
               "RelativeDocumentMoniker": "CloudDemoApp\\Dockerfile",
               "ToolTip": "C:\\CURSOSNETPERSONAL2025\\Class06\\CloudDemoApp\\Dockerfile",
               "RelativeToolTip": "CloudDemoApp\\Dockerfile",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-07-07T04:32:03.548Z",
               "EditorCaption": ""
