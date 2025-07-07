@@ -3,11 +3,12 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace CloudDemoApp.Controllers
 {
-    [Route("api/[controller]")]
     [ApiController]
+    [Route("Products")]
     public class ProductsController : ControllerBase
     {
-        [HttpGet("ListProduct")]
+        [HttpGet]
+        [Route("ListProducts")]
         public List<string> GetAll()
         {
             var products = new List<string>
